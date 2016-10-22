@@ -769,10 +769,11 @@
 }
 #u6327 {
   position:absolute;
-  left:0px;
+  left:2px;
   top:0px;
-  width:17px;
-  white-space:nowrap;
+  width:13px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
 #u6328_img {
   position:absolute;
