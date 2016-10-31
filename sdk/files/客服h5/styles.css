@@ -2928,7 +2928,7 @@
 #u569 {
   position:absolute;
   left:534px;
-  top:1413px;
+  top:1419px;
   width:305px;
   height:32px;
 }
@@ -2944,14 +2944,14 @@
   left:535px;
   top:1188px;
   width:300px;
-  height:108px;
+  height:59px;
 }
 #u571_input {
   position:absolute;
   left:0px;
   top:0px;
   width:300px;
-  height:108px;
+  height:59px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -2980,7 +2980,7 @@
 #u572 {
   position:absolute;
   left:534px;
-  top:1314px;
+  top:1260px;
   width:29px;
   height:16px;
   font-family:'Arial Negreta', 'Arial';
@@ -3004,7 +3004,7 @@
 #u574 {
   position:absolute;
   left:534px;
-  top:1340px;
+  top:1286px;
   width:48px;
   height:32px;
 }
@@ -3076,7 +3076,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:61px;
+  width:85px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3090,14 +3090,14 @@
   position:absolute;
   left:534px;
   top:1059px;
-  width:61px;
+  width:85px;
   height:16px;
 }
 #u581 {
   position:absolute;
   left:0px;
   top:0px;
-  width:61px;
+  width:85px;
   white-space:nowrap;
 }
 #u582_img {
@@ -3159,7 +3159,7 @@
 #u586 {
   position:absolute;
   left:592px;
-  top:1340px;
+  top:1286px;
   width:48px;
   height:32px;
 }
@@ -3192,7 +3192,7 @@
 #u588 {
   position:absolute;
   left:650px;
-  top:1340px;
+  top:1286px;
   width:46px;
   height:32px;
   font-size:48px;
@@ -5936,7 +5936,7 @@
 #u796 {
   position:absolute;
   left:534px;
-  top:1379px;
+  top:1325px;
   width:204px;
   height:15px;
   font-size:12px;
@@ -5947,5 +5947,60 @@
   left:0px;
   top:0px;
   width:204px;
+  white-space:nowrap;
+}
+#u798 {
+  position:absolute;
+  left:535px;
+  top:1375px;
+  width:300px;
+  height:25px;
+}
+#u798_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u799_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u799 {
+  position:absolute;
+  left:535px;
+  top:1353px;
+  width:57px;
+  height:16px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u800 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
   white-space:nowrap;
 }
