@@ -68,6 +68,16 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._流程形状 {
+}
 ._连接线 {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -86,4 +96,15 @@
 .box_1 {
 }
 .icon {
+}
+.table_cell {
+}
+.ellipse {
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
 }
